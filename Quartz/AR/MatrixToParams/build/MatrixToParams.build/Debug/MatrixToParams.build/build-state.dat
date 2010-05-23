@@ -1,0 +1,164 @@
+TMatrixToParams
+v7
+r0
+t296268248.032364
+cCheck dependencies
+cProcessInfoPlistFile /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/Info.plist Info.plist
+cProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch.gch MatrixToParams_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParamsPlugIn.o /Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams normal x86_64
+cTouch /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004702C63B000000000001EC60
+t1191364155
+s126048
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c0000000047BB1D140000000000000100
+t1203445012
+s256
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BAC72CA00000000000000EE
+t1269592778
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B824D23000000000001FFC8
+t1266830627
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004AD870D6000000000000A5F0
+t1255698646
+s42480
+
+N/Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.h
+c000000004922720A0000000000000127
+t1226994186
+s295
+i<Quartz/Quartz.h>
+
+N/Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m
+c000000004922724B000000000000079E
+t1226994251
+s1950
+i<OpenGL/CGLMacro.h>
+i"MatrixToParamsPlugIn.h"
+
+N/Users/peko/Downloads/MatrixToParams/MatrixToParams_Prefix.pch
+c000000004921DDDD0000000000000032
+t1226956253
+s50
+i<Quartz/Quartz.h>
+
+N/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin
+t1274575448
+s102
+
+N/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/Info.plist
+t1274575440
+s874
+
+N/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams
+t1274575448
+s15984
+
+N/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParams.LinkFileList
+c000000004BF87A500000000000000088
+t1274575440
+s136
+
+N/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParamsPlugIn.o
+t1274575447
+s19820
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch.gch
+t1274575446
+s56452496
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-gldsolqddkzkcvamxzzbbuvcrkjr/MatrixToParams_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004921DDDD0000000000000384
+t1226956253
+s900
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296268240#296268240#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParamsPlugIn.o /Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296268246.934465
+e296268247.760550
+r1
+xCompileC
+xbuild/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParamsPlugIn.o
+x/Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m296268246#296268247#0(0"0(0#0#59"/Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m4300911832#1187"    cd /Users/peko/Downloads/MatrixToParams    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/MatrixToParams.hmap -F/Users/peko/Downloads/MatrixToParams/build/Debug -I/Users/peko/Downloads/MatrixToParams/build/Debug/include -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/DerivedSources/x86_64 -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/DerivedSources -include /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch -c /Users/peko/Downloads/MatrixToParams/MatrixToParamsPlugIn.m -o /Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParamsPlugIn.o0#
+
+CLd /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams normal x86_64
+s296268247.760734
+e296268248.029236
+r1
+xLd
+x/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams
+xnormal
+xx86_64
+lSLF07#2@105"Link /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams296268247#296268248#0(0"0(0#0#0"4300911832#596"    cd /Users/peko/Downloads/MatrixToParams    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/peko/Downloads/MatrixToParams/build/Debug -F/Users/peko/Downloads/MatrixToParams/build/Debug -filelist /Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/Objects-normal/x86_64/MatrixToParams.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/MacOS/MatrixToParams0#
+
+CProcessInfoPlistFile /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/Info.plist Info.plist
+s296268240.527370
+e296268240.531825
+r1
+xProcessInfoPlistFile
+x/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296268240#296268240#0(0"0(0#0#47"/Users/peko/Downloads/MatrixToParams/Info.plist4300911832#216"    cd /Users/peko/Downloads/MatrixToParams    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch.gch MatrixToParams_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296268240.531942
+e296268246.934229
+r1
+xProcessPCH
+x/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch.gch
+xMatrixToParams_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile MatrixToParams_Prefix.pch296268240#296268246#0(0"0(0#0#62"/Users/peko/Downloads/MatrixToParams/MatrixToParams_Prefix.pch4300911832#1056"    cd /Users/peko/Downloads/MatrixToParams    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/MatrixToParams.hmap -F/Users/peko/Downloads/MatrixToParams/build/Debug -I/Users/peko/Downloads/MatrixToParams/build/Debug/include -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/DerivedSources/x86_64 -I/Users/peko/Downloads/MatrixToParams/build/MatrixToParams.build/Debug/MatrixToParams.build/DerivedSources -c /Users/peko/Downloads/MatrixToParams/MatrixToParams_Prefix.pch -o /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-bzhppdovwlsczweftardudrghzdq/MatrixToParams_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatrixToParams_Prefix-gldsolqddkzkcvamxzzbbuvcrkjr/MatrixToParams_Prefix.pch.gch MatrixToParams_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin
+s296268248.029346
+e296268248.032319
+r1
+xTouch
+x/Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin
+lSLF07#2@76"Touch /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin296268248#296268248#0(0"0(0#0#0"4300911832#137"    cd /Users/peko/Downloads/MatrixToParams    /usr/bin/touch -c /Users/peko/Downloads/MatrixToParams/build/Debug/MatrixToParams.plugin0#
+

@@ -1,0 +1,387 @@
+TMQOImporter
+v7
+r0
+t296268346.040558
+cCheck dependencies
+cProcessInfoPlistFile /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Info.plist Info.plist
+cCompileXIB /Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib
+cProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter normal x86_64
+cLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter normal i386
+cCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter normal ppc
+cCreateUniversalBinary /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin.dSYM /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter
+cTouch /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004864C81A000000000000563C
+t1214564378
+s22076
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004702C63B000000000001EC60
+t1191364155
+s126048
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c0000000047BB1D140000000000000100
+t1203445012
+s256
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/math.h
+c0000000047BA987000000000000004B7
+t1203411056
+s1207
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BAC72CA00000000000000EE
+t1269592778
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004A124745000000000000578C
+t1242711877
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B824D23000000000001FFC8
+t1266830627
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004B738B7F0000000000004174
+t1265863551
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004B738B7F0000000000002DF5
+t1265863551
+s11765
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004AD870D6000000000000A5F0
+t1255698646
+s42480
+
+N/Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib
+c0000000048DB96F8000000000000378C
+t1222350584
+s14220
+
+N/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.h
+c0000000048DCEEB200000000000001F2
+t1222438578
+s498
+i<Quartz/Quartz.h>
+i"xGLMetaseq.h"
+
+N/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m
+c0000000048DD0C320000000000002114
+t1222446130
+s8468
+i<OpenGL/CGLMacro.h>
+i"MQOImporterPlugIn.h"
+
+N/Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch
+c0000000048DA5ADB0000000000000032
+t1222269659
+s50
+i<Quartz/Quartz.h>
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter
+t1274575545
+s31992
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter.LinkFileList
+c000000004BF87A8C000000000000007C
+t1274575500
+s124
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporterPlugIn.o
+t1274575544
+s87344
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter
+t1274575545
+s32788
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter.LinkFileList
+c000000004BF87A8C000000000000007B
+t1274575500
+s123
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporterPlugIn.o
+t1274575545
+s90436
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter
+t1274575545
+s29912
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter.LinkFileList
+c000000004BF87A8C000000000000007E
+t1274575500
+s126
+
+N/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporterPlugIn.o
+t1274575544
+s101720
+
+N/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin
+t1274575546
+s102
+
+N/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin.dSYM
+t1274575546
+s102
+
+N/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Info.plist
+t1274575500
+s859
+
+N/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter
+t1274575545
+s102420
+
+N/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Resources/English.lproj/Settings.nib
+t1274575500
+s4683
+
+N/Users/peko/Downloads/MQOImporter/include/xGLMetaseq.h
+c0000000048DD0CB9000000000000441A
+t1222446265
+s17434
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<GLUT/glut.h>
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch.gch
+t1274575537
+s55113104
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-cnirwqcnpckxhbatugvfdzfaebwi/MQOImporter_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch.gch
+t1274575537
+s57742768
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-gpfgxlgekwprgwgxfsqokhykguij/MQOImporter_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch.gch
+t1274575542
+s54977744
+
+N/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-hfrwntbpfbspgfdlqrmidfudhrbn/MQOImporter_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000048DA5ADB000000000000037E
+t1222269659
+s894
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296268300#296268300#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296268342.628357
+e296268344.732838
+r1
+xCompileC
+xbuild/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporterPlugIn.o
+x/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m296268342#296268344#0(0"0(0#0#53"/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m4300911832#1111"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/i386 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -include /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch -c /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporterPlugIn.o0#
+
+CCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s296268345.077900
+e296268345.684815
+r1
+xCompileC
+xbuild/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporterPlugIn.o
+x/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m296268345#296268345#0(0"0(0#0#53"/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m4300911832#1118"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/ppc -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -include /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch -c /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporterPlugIn.o0#
+
+CCompileC build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporterPlugIn.o /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296268342.626548
+e296268344.693222
+r1
+xCompileC
+xbuild/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporterPlugIn.o
+x/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m296268342#296268344#0(0"0(0#0#53"/Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m4300911832#1117"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/x86_64 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -include /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch -c /Users/peko/Downloads/MQOImporter/MQOImporterPlugIn.m -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporterPlugIn.o0#
+
+CCompileXIB /Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib
+s296268300.515373
+e296268300.689785
+r1
+xCompileXIB
+x/Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib296268300#296268300#0(0"0(0#0#60"/Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib4300911832#321"    cd /Users/peko/Downloads/MQOImporter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Resources/English.lproj/Settings.nib /Users/peko/Downloads/MQOImporter/English.lproj/Settings.xib0#
+
+CCreateUniversalBinary /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter normal "x86_64 i386 ppc"
+s296268345.860106
+e296268345.898048
+r1
+xCreateUniversalBinary
+x/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@106"CreateUniversalBinary build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter normal "x86_64 i386 ppc"296268345#296268345#0(0"0(0#0#49"/Users/peko/Downloads/MQOImporter/x86_64 i386 ppc4300911832#518"    cd /Users/peko/Downloads/MQOImporter    /usr/bin/lipo -create /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter -output /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter0#
+
+CGenerateDSYMFile /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin.dSYM /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter
+s296268345.898169
+e296268346.037400
+r1
+xGenerateDSYMFile
+x/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin.dSYM
+x/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter
+lSLF07#2@114"GenerateDSYMFile build/Release/MQOImporter.plugin.dSYM build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter296268345#296268346#0(0"0(0#0#93"/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter4300911832#242"    cd /Users/peko/Downloads/MQOImporter    /Developer/usr/bin/dsymutil /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/MacOS/MQOImporter -o /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin.dSYM0#
+
+CLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter normal i386
+s296268344.732948
+e296268345.077775
+r1
+xLd
+x/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter
+xnormal
+xi386
+lSLF07#2@120"Link /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter296268344#296268345#0(0"0(0#0#0"4300911832#592"    cd /Users/peko/Downloads/MQOImporter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/peko/Downloads/MQOImporter/build/Release -F/Users/peko/Downloads/MQOImporter/build/Release -filelist /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/i386/MQOImporter0#
+
+CLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter normal ppc
+s296268345.684920
+e296268345.859969
+r1
+xLd
+x/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter
+xnormal
+xppc
+lSLF07#2@119"Link /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter296268345#296268345#0(0"0(0#0#0"4300911832#589"    cd /Users/peko/Downloads/MQOImporter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/peko/Downloads/MQOImporter/build/Release -F/Users/peko/Downloads/MQOImporter/build/Release -filelist /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/ppc/MQOImporter0#
+
+CLd /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter normal x86_64
+s296268344.693448
+e296268345.079077
+r1
+xLd
+x/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter
+xnormal
+xx86_64
+lSLF07#2@122"Link /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter296268344#296268345#0(0"0(0#0#0"4300911832#598"    cd /Users/peko/Downloads/MQOImporter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/peko/Downloads/MQOImporter/build/Release -F/Users/peko/Downloads/MQOImporter/build/Release -filelist /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/Objects-normal/x86_64/MQOImporter0#
+
+CProcessInfoPlistFile /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Info.plist Info.plist
+s296268300.512072
+e296268300.515293
+r1
+xProcessInfoPlistFile
+x/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296268300#296268300#0(0"0(0#0#44"/Users/peko/Downloads/MQOImporter/Info.plist4300911832#209"    cd /Users/peko/Downloads/MQOImporter    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296268300.689908
+e296268338.821176
+r1
+xProcessPCH
+x/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch.gch
+xMQOImporter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MQOImporter_Prefix.pch296268300#296268338#0(0"0(0#0#56"/Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch4300911832#996"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/x86_64 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -c /Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch -o /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-apdmrcwpyfcrxufqhmeudhnvcybh/MQOImporter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-cnirwqcnpckxhbatugvfdzfaebwi/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296268300.691813
+e296268338.375457
+r1
+xProcessPCH
+x/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch.gch
+xMQOImporter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MQOImporter_Prefix.pch296268300#296268338#0(0"0(0#0#56"/Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch4300911832#992"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/i386 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -c /Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch -o /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-eyscbrphhbioosacwzlrmnbuvpod/MQOImporter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-gpfgxlgekwprgwgxfsqokhykguij/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s296268338.375708
+e296268342.626194
+r1
+xProcessPCH
+x/var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch.gch
+xMQOImporter_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MQOImporter_Prefix.pch296268338#296268342#0(0"0(0#0#56"/Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch4300911832#1000"    cd /Users/peko/Downloads/MQOImporter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/MQOImporter.hmap -F/Users/peko/Downloads/MQOImporter/build/Release -I/Users/peko/Downloads/MQOImporter/build/Release/include -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources/ppc -I/Users/peko/Downloads/MQOImporter/build/MQOImporter.build/Release/MQOImporter.build/DerivedSources -c /Users/peko/Downloads/MQOImporter/MQOImporter_Prefix.pch -o /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-guylrrybxorposbogcsrrqkvlzlu/MQOImporter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPivWLa3EuebeSsj48Qzqk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MQOImporter_Prefix-hfrwntbpfbspgfdlqrmidfudhrbn/MQOImporter_Prefix.pch.gch MQOImporter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin
+s296268346.037497
+e296268346.040518
+r1
+xTouch
+x/Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin
+lSLF07#2@72"Touch /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin296268346#296268346#0(0"0(0#0#0"4300911832#130"    cd /Users/peko/Downloads/MQOImporter    /usr/bin/touch -c /Users/peko/Downloads/MQOImporter/build/Release/MQOImporter.plugin0#
+

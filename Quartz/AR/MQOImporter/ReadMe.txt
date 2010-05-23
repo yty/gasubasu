@@ -1,0 +1,1 @@
+xGLMetaseq.hのオリジナルGLMetaseq.hは工学ナビさんのサイトで配布されていたものです．工学ナビ:  http://www1.bbiq.jp/kougaku/ありがとうございます．
